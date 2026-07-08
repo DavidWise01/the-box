@@ -4,6 +4,6 @@ slug  : the-box
 seal  : f65d45cb23fe07a010fd3d2f9b73eab28a3f7d1f829238b06ba9263835d31a48
 prev  : 0e8d2c4405dd9e63a23a4a08e023c2ce8affc9afac8481abf03ddf4210af08fd
 link  : 78c7aefd1b63e0e6e059985bfa1a039c6f686a4f91a014d7ef214a3cf67c9cba
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
